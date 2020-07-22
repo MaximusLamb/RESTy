@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Display component renders the Display 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <label>
+    URL
+    <input
+      onChange={[Function]}
+      type="text"
+      value="butt@butt.com"
+    />
+  </label>
+  <br />
+  <section>
+    <br />
+    <label>
+      GET
+      <input
+        name="method"
+        type="radio"
+        value="get"
+      />
+    </label>
+    <br />
+    <label>
+      POST
+      <input
+        name="method"
+        type="radio"
+        value="post"
+      />
+    </label>
+    <br />
+    <label>
+      PUT
+      <input
+        name="method"
+        type="radio"
+        value="put"
+      />
+    </label>
+    <br />
+    <label>
+      DELETE
+      <input
+        name="method"
+        type="radio"
+        value="delete"
+      />
+    </label>
+    <br />
+    <label>
+      Input
+    </label>
+    <textarea
+      name="input"
+      type="text"
+      value="fun things time"
+    />
+  </section>
+  <button>
+    Submit
+  </button>
+</form>
+`;
