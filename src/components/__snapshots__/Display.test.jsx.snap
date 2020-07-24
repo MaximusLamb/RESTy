@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Display component renders the Display 1`] = `
+exports[`RequestForm component renders the RequestForm 1`] = `
 <form
   onSubmit={[Function]}
 >

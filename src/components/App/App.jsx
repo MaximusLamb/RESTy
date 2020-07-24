@@ -1,7 +1,7 @@
 import React from 'react';
-import Display from '../Display';
+import MainContainer from '../../containers/MainContainer';
 
 export default function App() {
-  return (<Display />);
+  return (<MainContainer/>);
 }
   
